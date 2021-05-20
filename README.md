@@ -1,14 +1,9 @@
 # Project
+Hello there and thank you for joining us for Microsoft Build 2021!
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+In this collection you'll find desktop wallpapers, teams backgrounds and more. 
 
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+We hope you enjoy everything we've put together this year for Build.
 
 ## Contributing
 
