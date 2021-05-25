@@ -4,7 +4,7 @@ Hello there and thank you for joining us for [Microsoft Build 2021]! (https://ak
 In this collection you'll find desktop wallpapers, teams backgrounds and more. 
 
 We hope you enjoy everything we've put together this year for Build.
-Learn more [here] - (https://aka.ms/Build2021-TCPost)
+Learn more [here] (https://aka.ms/Build2021-TCPost)
 
 ## Contributing
 
